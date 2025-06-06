@@ -1,3 +1,51 @@
-h1 {
-    color: aquamarine;
+* {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+    color: white;
+    font-size: 25px;
+    text-align: center;
+}
+
+a {
+    color:aquamarine;
+   font-size: 16px;
+   text-align: center;
+}
+
+.Foliage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+video {
+    display: block
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
+
+#travel_guide {
+    text-align: center;
+    
+}
+
+#travel_guide h1 {
+    font-size: 22px;
+    color: white;
+}
+
+#travel_guide h2 {
+    font-size: 16px;
+    color: gray;
+}
+
+#camp {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
